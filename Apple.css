@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-bg-container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT68mt5QHQOWvn1FRPGNUVvBZSC0BY8G9qITw&usqp=CAU");
+    height: 50vh;
+    background-size: cover;
+}
+
+.bottom-card-container {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.main-heading {
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: bold;
+    color: orange;
+    padding: 10px;
+}
+
+.paragraph {
+    font-family: Roboto;
+    font-size: 17px;
+    color: blue;
+}
+
+.bottom-button {
+    height: 36px;
+    width: 136px;
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 3px;
+}
+
+.bg-container {
+    background-color: pink;
+    height: 180vh;
+    background-size: cover;
+}
+
+.card-section {
+    background-color: pink;
+    margin: 4px;
+}
+
+.button {
+    height: 30px;
+    width: 100px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 10px;
+}
+
+.button-blue {
+    background-color: orange;
+    color: black;
+}
+
+.bottom-text-heading {
+    color: blue;
+    font-size: 18px;
+    padding: 8px;
+}
+
+.bottom-new-card {
+    background-color: white;
+    width: 400px;
+    height: 130px;
+    margin: 6px;
+    border-radius: 10px;
+
+}
+
+.bottom-new-image {
+    height: 110px;
+    width: 158px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px;
+}
+
+.bottom-new-heading {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    color: brown;
+    padding: 2px;
+}
+
+.bottom-new-paragraph {
+    font-family: roboto;
+    font-size: 24px;
+    color: orange;
+    font-weight: bold;
+}
+
+.bottom-new-prize {
+    font-family: roboto;
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
